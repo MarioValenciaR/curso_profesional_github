@@ -2,6 +2,10 @@ body{
     background-color: beige;
 }
 
-#header{
-    color: rgb(86, 86, 143);
+#footing{
+    color: rgb(255, 240, 249);
+    background-color: black;
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 30px;
 }
