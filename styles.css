@@ -9,3 +9,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
     border-radius: 30px;
 }
+
+#header{
+    background-color: black;
+    color: aquamarine;
+    border-radius: 20px;
+    font: larger;
+}
