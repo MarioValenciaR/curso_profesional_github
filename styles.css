@@ -9,3 +9,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     border-radius: 30px;
 }
+
+#footer{
+    background-color: black;
+    color: rgb(181, 123, 236);
+}
